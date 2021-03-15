@@ -1,0 +1,87 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,200;0,300;0,400;1,200;1,300;1,400&display=swap');
+
+body {
+  font-family: 'Literata', serif;
+  text-align: justify;
+}
+
+// headers
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #DE6449;
+  font-family: 'Literata', serif;
+  // border: 1px dashed #4400ff;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
+
+.site-title,
+.site-title:visited {
+  color: #DE6449;
+  font-weight: bold;
+  font-family: 'Literata', serif;
+}
+.site-nav .page-link {
+  color: #73070B;
+  font-family: 'Literata', serif;
+}
+
+.site-header,
+.site-footer {
+  border: none;
+}
+.footer-heading {
+  display: none;
+}
+
+/** Links */
+a {
+  color: #73070B;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #73070B;
+}
+
+a:hover {
+  color: #73070B;
+  text-decoration: underline;
+}
+
+.social-media-list a:hover {
+  text-decoration: none;
+}
+
+.social-media-list a:hover .username {
+  text-decoration: underline;
+}
+
+// lists
+
+.post-list > li {
+  margin-bottom: 50px;
+  // padding-bottom: 20px;
+  // border-bottom: 4px dotted aquamarine;
+}
+
+// divider
+hr{
+  border-top: 2px dotted #E9C46A;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
