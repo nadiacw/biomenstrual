@@ -22,8 +22,8 @@ title: designing multispecies menstrual care - project blog
 email: nadiacw@kth.se
 description: >- # this means to ignore newlines until "baseurl:"
   A project on designing sustainable menstrual care technologies.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/menstrual-care-blog" # the subpath of your site, e.g. /blog
+url: "https://nadiacw.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nadiacw
 github_username:  nadiacw
 
