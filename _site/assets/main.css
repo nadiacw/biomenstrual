@@ -304,4 +304,6 @@ a:hover { color: #73070B; text-decoration: underline; }
 
 hr { border-top: 2px dotted #E9C46A; margin-top: 30px; margin-bottom: 30px; }
 
+.caption { font-size: small; text-align: center; }
+
 /*# sourceMappingURL=main.css.map */
