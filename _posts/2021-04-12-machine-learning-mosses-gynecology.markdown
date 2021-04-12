@@ -36,7 +36,7 @@ I trained a StyleGaN2 machine learning model on 914 images of gynecology tools f
 <div style="padding:100% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/534910928" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Blood moss
-I used Artbreeder to morph images of moss and blood into new constellations. This creative tool allows you to gain more control of the generated imaged by tuning different parametres in the StyleGEN2 model.
+I used Artbreeder to morph images of moss and blood into new constellations. This creative tool allows you to gain more control of the generated images by tuning different parametres in the StyleGEN2 model.
 
 ![](/menstrual-care-blog/assets/images/bloodmoss_1.png)
 ![](/menstrual-care-blog/assets/images/bloodmoss_2.png)
@@ -45,4 +45,4 @@ I used Artbreeder to morph images of moss and blood into new constellations. Thi
 These early examples seek to open new pathways for thinking-with machine learning systems in the context of multispecies menstrual care. It’s an exploration of using more-than-human imagination to ideate and visualise how menstrual care could be practiced in ways that nurture more-than the human body, for instance through the practice of gathering sphagnum moss for menstrual products.
 
 
-A remaining point for continuous reflection and critique is that ML models generate future images_decisions_predictions built on the past and that its planetary costs are high in terms of energy use and material resources. Could we, then, use ML to both tell the story of oppressive pasts as well as imagine more socially just futures? And could we both use AL systems of which planetary costs are high, to build and regenerate environmentally flourishing practices, rituals, tools or objects?
+A remaining point for continuous reflection and critique is that ML models generate future images/decisions/predictions built on the past and that its planetary costs are high in terms of energy use and material resources. Could we, then, use ML to both tell the story of oppressive pasts as well as imagine more socially just futures? And could we both use AL systems of which planetary costs are high, to build and regenerate environmentally flourishing practices, rituals, tools or objects?
