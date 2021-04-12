@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A project on designing sustainable menstrual care technologies. Blog by [Nadia](https://nadiacw.com/).
+A project on designing sustainable menstrual care technologies. Blog by [Nadia](https://nadiacw.com/) and [Marie Louise](https://mljuul.com/).
 
 **Team**
 

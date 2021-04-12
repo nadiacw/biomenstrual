@@ -1,5 +1,5 @@
 /** Reset some basic elements */
-@import url("https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,200;0,400;1,200;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,200;0,300;0,400;0,700;0,800;1,200;1,300;1,400;1,700;1,800&display=swap");
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
 /** Basic styling */
@@ -275,11 +275,15 @@ table td { border: 1px solid #e8e8e8; }
 
 .highlight .il { color: #099; }
 
-body { font-family: 'Literata', serif; text-align: justify; font-weight: lighter; }
+body { font-family: 'Literata', serif; font-weight: 400; }
 
-h1, h2, h3, h4, h5, h6 { color: #DE6449; font-family: 'Literata', serif; }
+p { text-align: justify; }
 
-h1, h2, h3 { font-weight: bold; }
+strong { font-weight: 700; }
+
+h1, h2, h3, h4, h5, h6 { color: #DE6449; font-family: 'Literata', serif; text-align: left; font-weight: 400; }
+
+h1, h2, h3 { font-weight: 700; }
 
 .site-title, .site-title:visited { color: #DE6449; font-weight: bold; font-family: 'Literata', serif; }
 
