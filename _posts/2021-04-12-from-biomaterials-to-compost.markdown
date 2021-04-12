@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "from biomaterials to compost"
-date:   2021-03-29 10:50:00 +0200
+date:   2021-04-12 10:00:00 +0200
 categories: reflections
 excerpt_separator: <!--more-->
 ---
