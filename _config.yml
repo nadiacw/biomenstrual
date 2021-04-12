@@ -27,6 +27,10 @@ url: "https://nadiacw.github.io/" # the base hostname & protocol for your site, 
 twitter_username: nadiacw
 github_username:  nadiacw
 
+collections:
+  authors:
+
+
 # Build settings
 theme: minima
 plugins:

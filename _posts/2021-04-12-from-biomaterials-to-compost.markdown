@@ -4,6 +4,7 @@ title:  "from biomaterials to compost"
 date:   2021-04-12 10:00:00 +0200
 categories: reflections
 excerpt_separator: <!--more-->
+author: by Nadia Campo Woytuk
 ---
 
 ![](/menstrual-care-blog/assets/images/process-01.png)

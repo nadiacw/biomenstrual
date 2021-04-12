@@ -4,6 +4,7 @@ title:  "first blog entry: designing multispecies menstrual care project"
 date:   2021-03-15 14:41:28 +0200
 categories: update
 excerpt_separator: <!--more-->
+author: by Nadia Campo Woytuk
 ---
 
 ![](/menstrual-care-blog/assets/images/pouringblood.jpg)

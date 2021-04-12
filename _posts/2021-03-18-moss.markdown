@@ -4,6 +4,7 @@ title:  "Material exploration: Sphagnum moss"
 date:   2021-03-18 11:23:00 +0200
 categories: material
 excerpt_separator: <!--more-->
+author: by Nadia Campo Woytuk
 ---
 
 _This blog entry will be a ‘living’ description on explorations with Sphagnum moss, updated as material explorations progress._

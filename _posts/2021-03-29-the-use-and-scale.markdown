@@ -4,6 +4,7 @@ title:  "The use and scale of menstrual blood"
 date:   2021-03-29 10:50:00 +0200
 categories: reflections
 excerpt_separator: <!--more-->
+author: by Nadia Campo Woytuk
 ---
 
 Potentially, menstrual blood can act as a fertilizer for plants, due to its rich nutrient composition. Although it has not been a subject of scientific and clinical trials, the practice of fertilizing houseplants and domestic gardens with menstrual blood is already widespread and [well documented on social media and blogs](http://peer2pickle.weebly.com/menstrual-blood-fertilizer.html). 
