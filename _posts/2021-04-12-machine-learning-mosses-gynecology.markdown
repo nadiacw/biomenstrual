@@ -10,13 +10,13 @@ author: by Marie Louise Juul Søndergaard
 ![](/menstrual-care-blog/assets/images/GyneGEN_gallery.jpeg)
 <span class="caption">GyneGAN</span>
 
-This blog entry is documenting early design explorations of how machine learning could be used to attend to more-than-human and multispecies menstrual care. ML and AI are not innocent technologies. Rather, as revealed by e.g. Kate Crawford and Joy Buolamwini, the material infrastructure of ML/AI are damaging the environment, and the embedded bias and logics are perpetuating social inequality through sexist and racists recommender and face recognition systems. By using ML in design explorations with menstrual care, I seek to both disentangle and grasp these politics and — if still possible — imagine feminist and more-than-human utopian uses and applications of ML for purposes that nurture both society and planet.
+This blog entry is documenting early design explorations of how machine learning could be used to attend to more-than-human and multispecies menstrual care. ML and AI are not innocent technologies. Rather, as revealed by e.g. Kate Crawford and Joy Buolamwini, the material infrastructure of ML/AI are damaging the environment, and the embedded bias and logics are perpetuating social inequality through sexist and racist recommender and face recognition systems. By using ML in design explorations with menstrual care, I seek to both disentangle and grasp these politics and — if still possible — imagine feminist and more-than-human utopian uses and applications of ML for purposes that nurture both society and planet.
 
 <!--more-->
 
 In a three-day ML/AI workshop ([https://github.com/auduno/aho-ml-workshop-v21](https://github.com/auduno/aho-ml-workshop-v21)), facilitated by Audun Mathias Øygard @auduno, I explored how machine learning could support the curiosities and entanglements that we are interesting in thickening in the multispecies menstrual care project.
 
-The machine learning tools include: [ml5.js](https://ml5js.org/), [teachable machine](https://teachablemachine.withgoogle.com/), [RunwayML](https://runwayml.com/) , and [Artbreeder](https://www.artbreeder.com/browse). 
+The machine learning tools include: [ml5.js](https://ml5js.org/), [teachable machine](https://teachablemachine.withgoogle.com/), [RunwayML](https://runwayml.com/), and [Artbreeder](https://www.artbreeder.com/browse). 
 
 ## Moss classifier
 
