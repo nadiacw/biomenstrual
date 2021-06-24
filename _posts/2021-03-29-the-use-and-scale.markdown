@@ -11,7 +11,7 @@ Potentially, menstrual blood can act as a fertilizer for plants, due to its rich
 
 However, when thinking at larger scales, at scales of mass production and consumption of plant-based food and products, of extensive crops and monoculture practices of modern-day agriculture, it’s hard to imagine that menstrual blood would be sufficient; it wouldn’t scale.
 
-![](/menstrual-care-blog/assets/images/pouringplant4.jpg)
+![](/biomenstrual/assets/images/pouringplant4.jpg)
 <span class="caption">Fertilizing houseplants with menstrual blood diluted in water</span>
 <!--more-->
 
@@ -21,7 +21,7 @@ In this way, the use of menstrual blood as a fertilizer only makes sense at loca
 
 When giving a ‘practical use’ like fertilizer to menstrual blood, which is commonly considered waste, and ‘useless’, one could wonder if we might we be risking turning menstrual blood into a commodity. Imagine that menstrual blood is suddenly discovered to hold the miraculous properties of organic plant nutrition, [reparation of wounded or damaged skin](https://hudson.org.au/latest-news/womb-to-wounds-menstrual-fluid-could-repair-damaged-skin/), or [as a source of serum for nourishing tissue culture and possibly lab-grown meat](https://we-make-money-not-art.com/whitefeather-hunter-the-witch-in-the-lab-coat/)… Wouldn’t it suddenly be regarded as liquid gold?
 
-![](/menstrual-care-blog/assets/images/mooncalf.jpg)
+![](/biomenstrual/assets/images/mooncalf.jpg)
 <a href="https://www.whitefeatherhunter.ca/new-research" class="caption">WhiteFeather Hunter, Mooncalf, 2019-present</a>
 
 Wait, menstrual blood can already do all that?

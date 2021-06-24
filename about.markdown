@@ -20,4 +20,4 @@ Madeline Balaam, KTH.
 
 This work has been funded by the NAVET center at the KTH Royal Institute of Technology: "NAVET - A hub to navigate unexplored regions between art, technology and design, kth.se/navet."
 
-| ![](/menstrual-care-blog/assets/images/kthlogo.png) | ![](/menstrual-care-blog/assets/images/konstfack.png) <br><br> ![](/menstrual-care-blog/assets/images/navet.png)  |
+| ![](/biomenstrual/assets/images/kthlogo.png) | ![](/biomenstrual/assets/images/konstfack.png) <br><br> ![](/biomenstrual/assets/images/navet.png)  |

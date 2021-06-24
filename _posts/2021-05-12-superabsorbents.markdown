@@ -6,7 +6,7 @@ categories: reflections
 excerpt_separator: <!--more-->
 author: by Nadia Campo Woytuk
 ---
-![](/menstrual-care-blog/assets/images/pad&tampon-gluten.jpeg)
+![](/biomenstrual/assets/images/pad&tampon-gluten.jpeg)
 <span class="caption">Sanitary pad and tampon prototypes made with gluten</span>
 
 During the last few weeks we’ve been meeting with [Antonio Capezza](https://www.kth.se/profile/ajcv), PhD in Fiber and Polymer Technology at KTH Royal Institute of Technology and Product Quality at SLU, currently doing his postdoc in the same topic, with a focus on protein-based superabsorbents for the hygiene industry —funded by _Bo Rydins Stiftelse for independent research_. Antonio’s work is motivated by finding a sustainable and biodegradable replacement for SAP (Superabsorbent polymer), which is a plastic-based superabsorbent that turns into a viscous gel when in contact with liquid. This fossil-based material is non-biodegradable and can lead to toxic waste and microplastic pollution.
@@ -16,11 +16,11 @@ Antonio showed us how the majority of diapers and sanitary pads contain SAP. He 
 
 As a simple experiment, Antonio showed us some samples of gluten and potato based superabsorbents and we “planted” them with soil and seeds to anticipate their biodegradability. After a few days, most of the samples started sprouting and some even started smelling like they were really decomposing.
 
-![](/menstrual-care-blog/assets/images/IMG_5495.jpg)
+![](/biomenstrual/assets/images/IMG_5495.jpg)
 
 Next, we visited Antonio’s labs and got a glimpse of the spaces and equipment used in polymer science. Antonio also gave us some powdered gluten so we could get a feel for the material and start to experiment with it. He obtains this industry _co-product_ from his industrial partners. However, gluten can be obtained easily at home by washing the starch out of normal wheat flour.
 
-![](/menstrual-care-blog/assets/images/antoniolab.png)
+![](/biomenstrual/assets/images/antoniolab.png)
 
 Recently, gluten has also gained some public attention via viral recipe videos that teach how to make make chicken-like fake meat from flour. This culinary practice dates way back within eastern culture, and is common in many asian cuisines (_seitan_ in Japan, _milgogi_ in Korea, _mianjin_ in China etc). I learned a bit about gluten-making and it’s historical use in cooking [in this video](https://www.youtube.com/watch?v=HrBTbfrucGk).
 
@@ -28,7 +28,7 @@ The gluten-water mix resulting from the flour-washing process, or by combing wat
 
 While Antonio is working on increasing the porosity and, in consequence, the absorption of this material, it is still interesting for us to experiment with the aesthetic and sensory qualities of it. As an initial exploration, I molded and shaped some of the gluten powder and let it dry to harden. The result is a very brittle cookie-pad 🍪, a questionable tampon, and some moss-gluten mix.
 
-![](/menstrual-care-blog/assets/images/glutenshapes.jpeg)
+![](/biomenstrual/assets/images/glutenshapes.jpeg)
 
 While this set of shapes is speculative, it might also be a first step to imagining what menstrual care with gluten might look, feel and smell like. 
 

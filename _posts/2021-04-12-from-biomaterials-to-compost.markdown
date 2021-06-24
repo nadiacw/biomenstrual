@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 author: by Nadia Campo Woytuk
 ---
 
-![](/menstrual-care-blog/assets/images/process-01.png)
+![](/biomenstrual/assets/images/process-01.png)
 
 When mapping out the design space of this project I found it easier to define a few stages or steps in the lifecycle of imagined sustainable menstrual products. Our designs will address one or several stages of this process.
 

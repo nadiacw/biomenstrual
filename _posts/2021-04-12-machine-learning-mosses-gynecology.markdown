@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 author: by Marie Louise Juul Søndergaard
 ---
 
-![](/menstrual-care-blog/assets/images/GyneGEN_gallery.jpeg)
+![](/biomenstrual/assets/images/GyneGEN_gallery.jpeg)
 <span class="caption">GyneGAN</span>
 
 This blog entry is documenting early design explorations of how machine learning could be used to attend to more-than-human and multispecies menstrual care. ML and AI are not innocent technologies. Rather, as revealed by e.g. Kate Crawford and Joy Buolamwini, the material infrastructure of ML/AI are damaging the environment, and the embedded bias and logics are perpetuating social inequality through sexist and racist recommender and face recognition systems. By using ML in design explorations with menstrual care, I seek to both disentangle and grasp these politics and — if still possible — imagine feminist and more-than-human utopian uses and applications of ML for purposes that nurture both society and planet.
@@ -38,8 +38,8 @@ I trained a StyleGaN2 machine learning model on 914 images of gynecology tools f
 ## Blood moss
 I used Artbreeder to morph images of moss and blood into new constellations. This creative tool allows you to gain more control of the generated images by tuning different parametres in the StyleGEN2 model.
 
-![](/menstrual-care-blog/assets/images/bloodmoss_1.png)
-![](/menstrual-care-blog/assets/images/bloodmoss_2.png)
+![](/biomenstrual/assets/images/bloodmoss_1.png)
+![](/biomenstrual/assets/images/bloodmoss_2.png)
 
 
 These early examples seek to open new pathways for thinking-with machine learning systems in the context of multispecies menstrual care. It’s an exploration of using more-than-human imagination to ideate and visualise how menstrual care could be practiced in ways that nurture more-than the human body, for instance through the practice of gathering sphagnum moss for menstrual products.
