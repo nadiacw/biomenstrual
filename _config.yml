@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: designing multispecies menstrual care 🌿🍷 project blog
+title: biomenstrual 🩸🌿 project blog
 email: nadiacw@kth.se
 description: >- # this means to ignore newlines until "baseurl:"
   A project on designing sustainable menstrual care technologies.
-baseurl: "/menstrual-care-blog" # the subpath of your site, e.g. /blog
+baseurl: "/biomenstrual" # the subpath of your site, e.g. /blog
 url: "https://nadiacw.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nadiacw
 github_username:  nadiacw

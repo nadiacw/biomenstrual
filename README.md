@@ -1,2 +1,2 @@
-# menstrual-care-blog
+# biomenstrual
 a blog on designing menstrual care technologies

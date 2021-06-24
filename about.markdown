@@ -10,11 +10,11 @@ A project on designing sustainable menstrual care technologies. Blog by [Nadia](
 
 Nadia Campo Woytuk, KTH.
 
-Madeline Balaam, KTH.
+Marie Louise Juul Søndergaard, AHO The Oslo School of Architecture and Design.
 
 Martin Avila, Konstfack.
 
-Marie Louise Juul Søndergaard, AHO The Oslo School of Architecture and Design.
+Madeline Balaam, KTH.
 
 ---
 
